@@ -1,0 +1,1 @@
+A collection of fibonacci sequence implementations, a couple of which are not insane.
