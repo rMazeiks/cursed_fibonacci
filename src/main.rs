@@ -66,6 +66,9 @@ pub fn print_fibonacci_macro() {
     print_up_to_nth!(()()()()()()()()()());
 }
 
+// for those who haven't stabbed their eyes out yet
+// there's another one in const_generics.rs
+
 fn main() {
     println!("Imperative");
     print_fibonacci_imperative();
